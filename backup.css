@@ -7,11 +7,16 @@
 .header {
     display: flex;
     place-content: center space-evenly;
+    margin-top: 10px;
 }
 
 .foto {
     display: flex;
     place-content: left;
+}
+
+.items {
+    margin-top: 10px;
 }
 
 .header div i {
