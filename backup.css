@@ -4,8 +4,19 @@
     text-decoration: none;
 }
 
+.header {
+    display: flex;
+    place-content: center space-evenly;
+}
+
 .foto {
     display: flex;
     place-content: left;
+}
+
+.header div i {
+    font-size: 25px;
+    align-self: center;
+    margin: 10px 18px;
 }
 
