@@ -13,6 +13,7 @@
     display: flex;
     place-content: center space-evenly;
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .foto {
@@ -31,6 +32,14 @@
     margin: 15px 18px;
 }
 
+/* Carousel */
+.carousel {
+    height: 100%;
+}
+/* Fin carousel */
+
+/* Carousel elemenos */
+
 
 /* Footer */
 .pie {
@@ -43,6 +52,7 @@
 .logo {
     width: 60px;
     height: 50px;
+    margin-top: 10px;
 }
 
 .grid-foot {
