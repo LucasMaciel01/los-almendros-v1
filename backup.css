@@ -32,14 +32,29 @@
     margin: 15px 18px;
 }
 
+.fa-cart-shopping {
+    color: rgb(38, 38, 38);
+}
+
+.fa-magnifying-glass {
+    color: rgb(38, 38, 38);
+}
+
 /* Carousel */
 .carousel {
     height: 100%;
+    margin-bottom: 30px;
 }
-/* Fin carousel */
 
-/* Carousel elemenos */
+/* Productos destacados */
+.prod {
+    display: flex;
+    place-content: center;
+}
 
+.card1 {
+    margin: 0px 30px 0 30px;
+}
 
 /* Footer */
 .pie {
@@ -47,6 +62,7 @@
     bottom: 0;
     display: block;
     color: white;
+    margin-top: 30px;
 }
 
 .logo {
@@ -83,4 +99,8 @@
 
 .row {
     display: inline;
+}
+
+.fa-instagram {
+    color: white;
 }
