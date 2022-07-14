@@ -56,13 +56,20 @@
     margin: 0px 30px 0 30px;
 }
 
+/* Boton productos */
+.prodboton {
+    display: flex;
+    place-content: center;
+    margin: 20px 0 20px 0;
+}
+
 /* Footer */
 .pie {
     background-color: rgb(38, 38, 38);
     bottom: 0;
     display: block;
     color: white;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .logo {
