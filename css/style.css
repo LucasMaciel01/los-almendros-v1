@@ -1,0 +1,106 @@
+.header {
+  display: flex;
+  place-content: center space-evenly;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.foto {
+  display: flex;
+  place-content: left;
+}
+
+.items {
+  margin-top: 10px;
+  color: rgb(38, 38, 38);
+}
+
+.header div i {
+  font-size: 25px;
+  align-self: center;
+  margin: 15px 18px;
+}
+
+.fa-cart-shopping {
+  color: rgb(38, 38, 38);
+}
+
+.carousel {
+  height: 100%;
+  margin-bottom: 30px;
+}
+
+.prod {
+  display: flex;
+  place-content: center;
+}
+
+.card1 {
+  margin: 0px 30px 0 30px;
+}
+
+.prodboton {
+  display: flex;
+  place-content: center;
+  margin: 20px 0 20px 0;
+}
+
+.seleccion {
+  display: flex;
+  place-content: center space-evenly;
+}
+
+.pie {
+  background-color: rgb(38, 38, 38);
+  bottom: 0;
+  display: block;
+  color: white;
+  margin-top: 20px;
+}
+
+.logo {
+  width: 60px;
+  height: 50px;
+  margin-top: 10px;
+}
+
+.grid-foot {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin: 50px;
+}
+
+.contacto {
+  display: grid;
+}
+
+.instagram {
+  font-size: 25px;
+}
+
+.nosotros {
+  display: grid;
+}
+
+.shop {
+  display: grid;
+}
+
+.s1 {
+  text-decoration: none;
+  color: white;
+}
+
+.info {
+  display: grid;
+}
+
+.row {
+  display: inline;
+}
+
+.fa-instagram {
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */

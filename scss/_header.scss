@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    place-content: center space-evenly;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.foto {
+    display: flex;
+    place-content: left;
+}
+
+.items {
+    margin-top: 10px;
+    color: rgb(38, 38, 38);
+}
+
+.header div i {
+    font-size: 25px;
+    align-self: center;
+    margin: 15px 18px;
+}
+
+.fa-cart-shopping {
+    color: rgb(38, 38, 38);
+}
